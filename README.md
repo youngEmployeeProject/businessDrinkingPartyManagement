@@ -1,0 +1,2 @@
+# businessDrinkingPartyManagement
+飲み会の幹事又は元幹事がタスク管理を行う場所として利用します。
