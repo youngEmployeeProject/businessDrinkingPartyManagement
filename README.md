@@ -5,8 +5,8 @@
 
 ### 環境構築
 こちらの環境は以下の通りです。
-- [打上げ幹事タスク共有場所](Projects)<br>
+- [打上げ幹事タスク共有場所](projects)<br>
 
 
-
-
+https://github.com/youngEmployeeProject/businessDrinkingPartyManagement/projects
+https://github.com/youngEmployeeProject/businessDrinkingPartyManagement
